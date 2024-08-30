@@ -42,7 +42,7 @@ git clone https://github.com/ebruakcn/Question-App.git
 ```
 2.Navigate to the project directory
 ```
-cd quiz-app
+cd question-app
 ```
 3.Install dependencies:
 ```
