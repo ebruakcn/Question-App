@@ -10,6 +10,7 @@
 - Final Results: Displays the number of correct, incorrect, and unanswered questions at the end of the quiz.
 
 ## Project Structure
+```
 .
 ├── public/
 ├── src/
@@ -28,7 +29,7 @@
 │   ├── index.js
 │   └── styles.css
 └── README.md
-
+```
 - components/: Contains all the reusable React components.
 - questions.js: Contains the list of questions and their possible answers.
 - styles.css: Global styles for the application.
