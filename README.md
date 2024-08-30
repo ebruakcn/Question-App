@@ -36,7 +36,27 @@
 
 ## Installation
 1. Clone the repository:
+```
+git clone https://github.com/ebruakcn/Question-App.git
+```
+2.Navigate to the project directory
+```
+cd quiz-app
+```
+3.Install dependencies:
+```
+npm install
+```
+4.Run the application:
+```
+npm run dev
+```
 
+## Usage
+1. On the start screen, click the "Start" button to begin the quiz.
+2. Answer the questions within the allotted time.
+3. After answering all questions, the results screen will display your performance.
+4. Review your correct and incorrect answers on the results screen.
 
-
+## Live Demo
 https://questionappp.netlify.app/
