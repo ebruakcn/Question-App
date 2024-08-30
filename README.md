@@ -1,4 +1,4 @@
-# Question-App
+# Question App
 
 <p>This project is a question application built using React. The app consists of multiple-choice questions, a timer, and displays results upon completion. The app is structured to provide a smooth user experience, with dynamic elements that adapt to user actions.</p>
 
